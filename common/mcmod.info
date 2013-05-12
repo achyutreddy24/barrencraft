@@ -1,0 +1,20 @@
+[
+{
+  "modid": "BarrenCraft",
+  "name": "Barren Craft",
+  "description": "Salvage the mighty forgotten empire of Erago!",
+  "version": "0.0.1",
+  "url": "www.github.com/achyutreddy/barrencraft/",
+  "updateUrl": "",
+  "authorList": [
+    "achyutreddy24"
+  ],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
